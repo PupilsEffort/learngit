@@ -6,9 +6,6 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a nes branch is quick AND simple
 Creating a new branch is quick & simle
-<<<<<<< HEAD
 Creating a nes branch is quick AND simple
 Creating a new branch is quick & simle
-=======
-Creating a nes branch is quick AND simple
->>>>>>> feature1
+dev
